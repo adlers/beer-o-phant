@@ -1,0 +1,45 @@
+# Post Offspring
+
+|             |             |
+|:------------|:------------|
+| Type:       | Mild
+| Size: | 20l
+| OG:         | 1.046
+| ABV:        | 3.5%
+| IBU:        | 29.7
+
+This is our take on a session. The result is a brittish mild with a modern/new world touch, a rich body and a pronounced but not dominant hop profile. The ABV is only 3.5%, making it ideal for parents with toddlers.
+
+## Ingedients
+
+#### Malts:  
+
+* 0.15kg Chocolate Malt
+* 0.50kg Caramunich
+* 2.80kg Belgian Pale
+
+Caramunich can be substituted with most crystal malts.  
+Belgian Pale can be replaced with most pale malts.
+
+#### Hops:  
+
+* 11g Mosaic (13,4%, Steep)
+* 5g Nelson Sauvin (11,7%, 60 min)
+* 31g Fuggle (4,9%, 60 min)
+
+The hops can of course be substituted with your own favourites, but in order to keep it a mild with new world vibes, those proportions should probably be kept about the same. The Nelson Sauvin addition is only for bitterness and could be substituted with almost any hop (taking alpha acid content into consideration).
+
+#### Yeast:  
+* British Ale
+
+A brittish ale yeast is in order for this beer. Another possibility would be to go for a neutral american ale yeast instead, but then it might not be a mild anymore.
+
+#### Misc:  
+* 10g Irish Moss (10 min)
+
+## Mash
+1. Steep 60 minutes at 68C.
+2. Steep 20 min at 72C.
+
+## Boil
+60 minutes.
